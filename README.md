@@ -1,5 +1,7 @@
 # cpp-RemoveDuplicatesInString  
-![](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/.github/workflows/badge.svg)  
+  
+  
+![](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/.github/workflows/ccpp.yml/badge.svg)  
 
 Measure performance using std::stack versus hard coded solution in cpp  
 Typical results:  
