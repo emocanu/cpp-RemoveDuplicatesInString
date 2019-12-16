@@ -15,7 +15,6 @@ jobs:
         cd build
         cmake ..
     - name: make
-      run: |
-        pwd
-        cmake --build .
+      run: cmake --build .
+      working-directory: ./build
 
