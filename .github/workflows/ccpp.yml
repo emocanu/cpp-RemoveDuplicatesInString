@@ -17,4 +17,7 @@ jobs:
     - name: make
       run: cmake --build .
       working-directory: ./build
+    - name: run
+      run: ./source
+      working-directory: ./build
 
