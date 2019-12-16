@@ -1,5 +1,6 @@
-# cpp-RemoveDuplicatesInString ![](https://github.com/emocanu/cpp-RemoveDuplicatesInString
-/workflows/.github/workflows/badge.svg)
+# cpp-RemoveDuplicatesInString  
+![](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/.github/workflows/badge.svg)  
+
 Measure performance using std::stack versus hard coded solution in cpp  
 Typical results:  
 Interview	= 0.0025915 seconds.  
