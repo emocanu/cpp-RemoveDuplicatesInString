@@ -5,7 +5,7 @@
 
 [![Actions Status](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/ccpp/badge.svg)](https://github.com/emocanu/cpp-RemoveDuplicatesInString/actions)
 
-[![Linux CI pipeline status badge](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/linux/badge.svg)](https://github.com/knocte/geewallet/actions)
+[![Linux CI pipeline status badge](https://github.com/emocanu/cpp-RemoveDuplicatesInString/workflows/linux/badge.svg)](https://github.com/emocanu/cpp-RemoveDuplicatesInString/actions)
 
 Measure performance using std::stack versus hard coded solution in cpp  
 Typical results:  
